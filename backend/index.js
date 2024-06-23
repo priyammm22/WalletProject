@@ -4,7 +4,7 @@ const mainRouter = require('./routes/index')
 const app = express();
 
 const cors = require('cors');
-app.use(express.json()); // it parse body(Stribg ) to json  object 
+app.use(express.json()); // it parse body(String ) to json  object 
 
 app.use(cors());
 
