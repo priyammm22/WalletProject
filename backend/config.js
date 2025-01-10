@@ -1,3 +1,3 @@
-const SECRET_KEY = "SYSTUMM__";
+const SECRET_KEY = "Keypym";
 
 module.exports = SECRET_KEY;
